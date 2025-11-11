@@ -145,7 +145,7 @@ Add screenshots to `assets/screenshots/` with these filenames and they will rend
 
 - Top Tables and Sales by Product Line
 
-  ![Tables and Sales by Product Line](assets/screenshots/tables_sales.png)
+  ![Tables and Sales by Product Line](screenshots/Tables)
 
 ## Deployment
 
