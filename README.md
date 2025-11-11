@@ -133,7 +133,8 @@ Add screenshots to `assets/screenshots/` with these filenames and they will rend
 
 - Overview
 
-  ![Dashboard Overview](screenshots/Screenshot 2025-11-11 093907.png)
+  ![Dashboard Overview](ADS-Project/screenshots
+/Screenshot 2025-11-11 093907.png)
 
 - Filters and KPIs
 
