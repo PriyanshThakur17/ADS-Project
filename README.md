@@ -133,15 +133,15 @@ Add screenshots to `assets/screenshots/` with these filenames and they will rend
 
 - Overview
 
-  ![Dashboard Overview](ADS-Project/screenshots/Screenshot 2025-11-11 093907.png)
+  ![Dashboard Overview](screenshots/dashboardpowerbi)
 
 - Filters and KPIs
 
-  ![Filters and KPIs](assets/screenshots/filters_kpis.png)
+  ![Filters and KPIs](screenshots/filterandKPI)
 
 - Login Page
 
-  ![Login Page](assets/screenshots/login.png)
+  ![Login Page](screenshots/login)
 
 - Top Tables and Sales by Product Line
 
